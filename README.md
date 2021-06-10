@@ -16,6 +16,18 @@
 - Written in: Go, gRPC
 - Status: _⚙️ In development ⚙️_
 
+### _GoRoutines and Concurrency Studies: Prevision 06/2021_
+- Language: Go
+- Topics:
+    - Channels
+    - GoRoutines
+    - Parallelism
+    - Atomic Counters
+    - Workers
+    - Mutex
+    - And more...
+- Status: _⏲️ No Started ⏲️_
+
 ### _DevOps Studies: Prevision 07/2021_
 - Language:
   - Go
