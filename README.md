@@ -16,7 +16,7 @@
 - Written in: Go, gRPC
 - Status: _⚙️ In development ⚙️_
 
-### _GoRoutines and Concurrency Studies: Prevision 06/2021_
+### [GoRoutines and Concurrency Studies](https://github.com/fiuskylab/go-routines101)
 - Language: Go
 - Topics:
     - Channels
@@ -26,7 +26,7 @@
     - Workers
     - Mutex
     - And more...
-- Status: _⏲️ No Started ⏲️_
+- Status: _⚙️ In development ⚙️_
 
 ### _DevOps Studies: Prevision 07/2021_
 - Language:
