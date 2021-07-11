@@ -16,6 +16,11 @@
 - Written in: Go, gRPC
 - Status: _⚙️ In development ⚙️_
 
+### [OCaml 101](https://github.com/fiuskylab/ocaml101)
+- Step-by-step studying how OCaml works
+- Written in: OCaml(of course)
+- Status: _⏲️ No Started ⏲️_
+
 ### [GoRoutines and Concurrency Studies](https://github.com/fiuskylab/go-routines101)
 - Language: Go
 - Topics:
@@ -28,7 +33,7 @@
     - And more...
 - Status: _⚙️ In development ⚙️_
 
-### _DevOps Studies: Prevision 07/2021_
+### _DevOps Studies: Prevision 01/2022_
 - Language:
   - Go
 - Tools:
@@ -42,14 +47,14 @@
   - and more.
 - Status: _⏲️ No Started ⏲️_
 
-### _Blockchain Studies: Prevision 08/2021_
+### _Blockchain Studies: Prevision 12/2021_
 - Language:
   - [ ] Go
   - [ ] OCaml
   - [ ] Elixir
 - Status: _⏲️ No Started ⏲️_
 
-### _Compilers Studies: Prevision 01/2022_
+### _Compilers Studies: Prevision 06/2022_
 - Language:
   - OCaml
 - Status: _⏲️ No Started ⏲️_
