@@ -1,27 +1,28 @@
 # projects
 - Projects developed in _Fiusky's Lab_
 
-### [Clavis](https://github.com/fiuskylab/clavis)
-- Simple in-memory and in-disk data storage Go package for simple projects
-- Written in: Go
-- Status: _⚙️ In development ⚙️_
+## Summary
+- [Language Studies](#language-studies)
+    - [OCaml101](#ocaml101)
+    - [GoRoutines and Concurrency Studies](#goroutines-and-concurrency-studies)
+- [Miscellaneous studies](#miscellaneous-studies)
+    - [Proto Study(gRPC)](roto-study)
+- [Projects](#projects)
+    - [Clavis(Go)](#clavis)
+    - [Facio(Go)](#facio)
+- [Not Started](#not-started)
+    - [DevOps Studies(Go)](#devops-studies)
+    - [Blockchain Studies)](#blockchain-studies)
+    - [Compilers Studies](#compilers-studies)
 
-### [Facio](https://github.com/fiuskylab/facio-http)
-- A package inspired on [GuzzleHTTP](https://docs.guzzlephp.org/en/stable/), proposing a simple and easy way to send HTTP requests.
-- Written in: Go
-- Status: _⚙️ In development ⚙️_
+### Language Studies
 
-### [Proto Study](https://github.com/fiuskylab/proto-study)
-- A step-by-step on how to implement a simple gRPC server using Go.
-- Written in: Go, gRPC
-- Status: _⚙️ In development ⚙️_
-
-### [OCaml 101](https://github.com/fiuskylab/ocaml101)
+#### [OCaml 101](https://github.com/fiuskylab/ocaml101)
 - Step-by-step studying how OCaml works
 - Written in: OCaml(of course)
 - Status: _⏲️ No Started ⏲️_
 
-### [GoRoutines and Concurrency Studies](https://github.com/fiuskylab/go-routines101)
+#### [GoRoutines and Concurrency Studies](https://github.com/fiuskylab/go-routines101)
 - Language: Go
 - Topics:
     - Channels
@@ -33,7 +34,29 @@
     - And more...
 - Status: _⚙️ In development ⚙️_
 
-### _DevOps Studies: Prevision 01/2022_
+### Miscellaneous studies
+
+#### [Proto Study](https://github.com/fiuskylab/proto-study)
+- A step-by-step on how to implement a simple gRPC server using Go.
+- Written in: Go, gRPC
+- Status: _⚙️ In development ⚙️_
+
+### Projects
+
+#### [Clavis](https://github.com/fiuskylab/clavis)
+- Simple in-memory and in-disk data storage Go package for simple projects
+- Written in: Go
+- Status: _⚙️ In development ⚙️_
+
+#### [Facio](https://github.com/fiuskylab/facio-http)
+- A package inspired on [GuzzleHTTP](https://docs.guzzlephp.org/en/stable/), proposing a simple and easy way to send HTTP requests.
+- Written in: Go
+- Status: _⚙️ In development ⚙️_
+
+### Not Started
+
+#### _DevOps Studies_
+- __Prevision 01/2022__
 - Language:
   - Go
 - Tools:
@@ -47,18 +70,19 @@
   - and more.
 - Status: _⏲️ No Started ⏲️_
 
-### _Blockchain Studies: Prevision 12/2021_
+#### _Blockchain Studies_
+- __Prevision 12/2021__
 - Language:
   - [ ] Go
   - [ ] OCaml
   - [ ] Elixir
 - Status: _⏲️ No Started ⏲️_
 
-### _Compilers Studies: Prevision 06/2022_
+#### _Compilers Studies_
+-  __Prevision 06/2022__
 - Language:
   - OCaml
 - Status: _⏲️ No Started ⏲️_
-
 
 #### Copy&Paste
 - Status: _⏲️ No Started ⏲️_
