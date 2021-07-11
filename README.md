@@ -3,7 +3,7 @@
 
 ## Summary
 - [Language Studies](#language-studies)
-    - [OCaml101](#ocaml101)
+    - [OCaml101](#ocaml-101)
     - [GoRoutines and Concurrency Studies](#goroutines-and-concurrency-studies)
 - [Miscellaneous studies](#miscellaneous-studies)
     - [Proto Study(gRPC)](proto-study)
