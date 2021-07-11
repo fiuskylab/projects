@@ -6,7 +6,7 @@
     - [OCaml101](#ocaml101)
     - [GoRoutines and Concurrency Studies](#goroutines-and-concurrency-studies)
 - [Miscellaneous studies](#miscellaneous-studies)
-    - [Proto Study(gRPC)](roto-study)
+    - [Proto Study(gRPC)](proto-study)
 - [Projects](#projects)
     - [Clavis(Go)](#clavis)
     - [Facio(Go)](#facio)
