@@ -10,6 +10,7 @@
 - [Projects](#projects)
     - [Clavis(Go)](#clavis)
     - [Facio(Go)](#facio)
+    - [Diarium(Go)](#diarium)
 - [Not Started](#not-started)
     - [DevOps Studies(Go)](#devops-studies)
     - [Blockchain Studies)](#blockchain-studies)
@@ -50,6 +51,11 @@
 
 #### [Facio](https://github.com/fiuskylab/facio-http)
 - A package inspired on [GuzzleHTTP](https://docs.guzzlephp.org/en/stable/), proposing a simple and easy way to send HTTP requests.
+- Written in: Go
+- Status: _⚙️ In development ⚙️_
+
+#### [Diarium](https://github.com/fiuskylab/diarium)
+- Simple logging package
 - Written in: Go
 - Status: _⚙️ In development ⚙️_
 
