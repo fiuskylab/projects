@@ -59,6 +59,11 @@
 - Written in: Go
 - Status: _⚙️ In development ⚙️_
 
+#### [Build-your-own LoadBalancer](https://github.com/fiuskylab/byo-loadbalancer)
+- Writing a simple load balancer
+- Written in: Go
+- Status: _⚙️ In development ⚙️_
+
 ### Not Started
 
 #### _DevOps Studies_
